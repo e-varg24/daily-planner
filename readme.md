@@ -6,7 +6,7 @@ This weeks challange we had to make a day planer that would display and check of
 
 ## Screenshoot
 
-[screenshot of website](./assets/planner.png)
+[screenshot](./assets/planner.png)
 
 ## Links
 
